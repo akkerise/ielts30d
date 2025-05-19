@@ -10,5 +10,5 @@ This repository contains a series of IELTS preparation materials, including 30 d
 This project is a simple markdown-based repository, without any specific technology stack.
 
 ### License
-The project does not specify a license, so the default copyright applies.
+@copyright `IELTS Fighter`
 
